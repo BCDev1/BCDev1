@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BCdev1
+- 👋 Hi, I’m @BCDev1
 
 <!---
 BeanDip240/BeanDip240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
